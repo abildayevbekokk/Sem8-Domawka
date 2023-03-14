@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Seminar 8 C#\DomTask1\obj\Debug\net7.0\DomTask1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Seminar 8 C#\DomTask1\obj\Debug\net7.0\DomTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Seminar 8 C#\DomTask1\obj\Debug\net7.0\DomTask1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Seminar 8 C#\DomTask1\obj\Debug\net7.0\DomTask1.AssemblyInfo.cs
+C:\Users\User\Desktop\Seminar 8 C#\DomTask1\obj\Debug\net7.0\DomTask1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Seminar 8 C#\DomTask1\bin\Debug\net7.0\DomTask1.exe
+C:\Users\User\Desktop\Seminar 8 C#\DomTask1\bin\Debug\net7.0\DomTask1.deps.json
+C:\Users\User\Desktop\Seminar 8 C#\DomTask1\bin\Debug\net7.0\DomTask1.runtimeconfig.json
+C:\Users\User\Desktop\Seminar 8 C#\DomTask1\bin\Debug\net7.0\DomTask1.dll
+C:\Users\User\Desktop\Seminar 8 C#\DomTask1\bin\Debug\net7.0\DomTask1.pdb
+C:\Users\User\Desktop\Seminar 8 C#\DomTask1\obj\Debug\net7.0\DomTask1.dll
+C:\Users\User\Desktop\Seminar 8 C#\DomTask1\obj\Debug\net7.0\refint\DomTask1.dll
+C:\Users\User\Desktop\Seminar 8 C#\DomTask1\obj\Debug\net7.0\DomTask1.pdb
+C:\Users\User\Desktop\Seminar 8 C#\DomTask1\obj\Debug\net7.0\DomTask1.genruntimeconfig.cache
+C:\Users\User\Desktop\Seminar 8 C#\DomTask1\obj\Debug\net7.0\ref\DomTask1.dll

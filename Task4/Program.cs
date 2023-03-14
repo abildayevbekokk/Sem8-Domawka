@@ -23,11 +23,12 @@ void PrintArray(int[,] array)
     }
 }
 
-
-
 int[,] array = new int[4,4];
+
 FillArray(array);
+
 PrintArray(array);
+
 int min = array[0,0];
 int indexI = 0;
 int indexJ = 0;
@@ -44,7 +45,9 @@ for (int i = 0; i < array.GetLength(0); i++)
         }
     }
 }
+
 Console.WriteLine(min);
+
 int[,] newArray = new int[3,3];
 int indexa = 0;
 int indexb = 0;
@@ -60,9 +63,9 @@ for (int i = 0; i < 4; i++)
         newArray[indexa,indexb] = array[i,j];
         indexb++;
     }
+
     indexa++;
     indexb = 0;
 }
-
 
 PrintArray(newArray);

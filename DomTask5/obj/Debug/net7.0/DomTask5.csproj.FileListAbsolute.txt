@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Seminar 8 C#\DomTask5\bin\Debug\net7.0\DomTask5.exe
+C:\Users\User\Desktop\Seminar 8 C#\DomTask5\bin\Debug\net7.0\DomTask5.deps.json
+C:\Users\User\Desktop\Seminar 8 C#\DomTask5\bin\Debug\net7.0\DomTask5.runtimeconfig.json
+C:\Users\User\Desktop\Seminar 8 C#\DomTask5\bin\Debug\net7.0\DomTask5.dll
+C:\Users\User\Desktop\Seminar 8 C#\DomTask5\bin\Debug\net7.0\DomTask5.pdb
+C:\Users\User\Desktop\Seminar 8 C#\DomTask5\obj\Debug\net7.0\DomTask5.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Seminar 8 C#\DomTask5\obj\Debug\net7.0\DomTask5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Seminar 8 C#\DomTask5\obj\Debug\net7.0\DomTask5.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Seminar 8 C#\DomTask5\obj\Debug\net7.0\DomTask5.AssemblyInfo.cs
+C:\Users\User\Desktop\Seminar 8 C#\DomTask5\obj\Debug\net7.0\DomTask5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Seminar 8 C#\DomTask5\obj\Debug\net7.0\DomTask5.dll
+C:\Users\User\Desktop\Seminar 8 C#\DomTask5\obj\Debug\net7.0\refint\DomTask5.dll
+C:\Users\User\Desktop\Seminar 8 C#\DomTask5\obj\Debug\net7.0\DomTask5.pdb
+C:\Users\User\Desktop\Seminar 8 C#\DomTask5\obj\Debug\net7.0\DomTask5.genruntimeconfig.cache
+C:\Users\User\Desktop\Seminar 8 C#\DomTask5\obj\Debug\net7.0\ref\DomTask5.dll

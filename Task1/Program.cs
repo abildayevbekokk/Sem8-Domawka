@@ -24,8 +24,11 @@ void PrintArray(int[,] massive)
 }
 
 int[,] array = new int[5,6];
+
 FillArray(array);
+
 PrintArray(array);
+
 for (int i = 0; i < array.GetLength(0); i+=array.GetLength(0)-1)
 {
     for (int j = 0; j < array.GetLength(1); j++)
@@ -38,4 +41,5 @@ for (int i = 0; i < array.GetLength(0); i+=array.GetLength(0)-1)
 }
 
 Console.WriteLine(new string('-', 11));
+
 PrintArray(array);

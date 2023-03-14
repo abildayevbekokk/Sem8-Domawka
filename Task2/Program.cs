@@ -28,16 +28,23 @@ int Prompt(string text)
     Console.WriteLine(text);
     return Convert.ToInt32(Console.ReadLine());
 }
+
 int m = Prompt("Количество строк: ");
 int n = Prompt("Количество столбцов: ");
 int[,] array = new int[m,n];
+
 FillArray(array);
+
 PrintArray(array);
+
 int[,] newArray = new int[m,n];
+
 for(int i = 0; i < newArray.GetLength(0); i++)
 {
     for(int j = 0; j < newArray.GetLength(1); j++)
         newArray[i,j] = array[j,i];
 }
+
 Console.WriteLine(new string('-', 10));
+
 PrintArray(newArray);

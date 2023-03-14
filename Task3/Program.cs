@@ -22,7 +22,8 @@ void PrintArray(int[,] massive)
         Console.WriteLine();
     }
 }
-void PrintArray1(int[] massive)
+
+void PrintArrayOneDimension(int[] massive)
 {
         for (int i = 0; i < massive.Length; i++)
         {
@@ -30,42 +31,56 @@ void PrintArray1(int[] massive)
         }
         Console.WriteLine();
 }
+
+int[] ArraySortOneDimention(int[] massive)
+{
+    for (int j = 0; j < massive.Length-1; j++)
+    {
+        for (int i = 0; i < massive.Length-1; i++)
+        {
+            if (massive[i]>massive[i+1])
+            {
+                int temp = massive[i+1];  
+                massive[i+1] = massive[i];
+                massive[i] = temp;          
+            }   
+        }   
+    }
+        
+    return massive;
+}
+
 int m = 3;
 int n = 4;
 int[,] massive = new int[m,n];
+
 FillArray(massive);
+
 PrintArray(massive);
 
 int[] newMassive = new int[m*n];
 int index = 0;
+
 foreach(int element in massive)
 {
     newMassive[index] = element;
     index++;
 }
 
-PrintArray1(newMassive);
+PrintArrayOneDimension(newMassive);
 
-for (int j = 0; j < newMassive.Length-1; j++)
-{
-    for (int i = 0; i < newMassive.Length-1; i++)
-    {
-    if (newMassive[i]>newMassive[i+1])
-    {
-        int temp = newMassive[i+1];  
-        newMassive[i+1] = newMassive[i];
-        newMassive[i] = temp;          
-    }
-    }
-}
+ArraySortOneDimention(newMassive);
 
-PrintArray1(newMassive);
+PrintArrayOneDimension(newMassive);
+
 int count = 1;
 int elem = newMassive[0];
+
 for (int i = 1; i < newMassive.Length; i++)
 {
     if (elem == newMassive[i])
         count++;
+
     else
     {
         Console.WriteLine($"Число {elem} встречается в массиве {count} раз");
@@ -73,4 +88,5 @@ for (int i = 1; i < newMassive.Length; i++)
         count = 1;
     } 
 }
+
 Console.WriteLine($"Число {elem} встречается в массиве {count} раз");

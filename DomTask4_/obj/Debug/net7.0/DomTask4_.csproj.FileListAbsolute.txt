@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Seminar 8 C#\DomTask4_\bin\Debug\net7.0\DomTask4_.exe
+C:\Users\User\Desktop\Seminar 8 C#\DomTask4_\bin\Debug\net7.0\DomTask4_.deps.json
+C:\Users\User\Desktop\Seminar 8 C#\DomTask4_\bin\Debug\net7.0\DomTask4_.runtimeconfig.json
+C:\Users\User\Desktop\Seminar 8 C#\DomTask4_\bin\Debug\net7.0\DomTask4_.dll
+C:\Users\User\Desktop\Seminar 8 C#\DomTask4_\bin\Debug\net7.0\DomTask4_.pdb
+C:\Users\User\Desktop\Seminar 8 C#\DomTask4_\obj\Debug\net7.0\DomTask4_.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Seminar 8 C#\DomTask4_\obj\Debug\net7.0\DomTask4_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Seminar 8 C#\DomTask4_\obj\Debug\net7.0\DomTask4_.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Seminar 8 C#\DomTask4_\obj\Debug\net7.0\DomTask4_.AssemblyInfo.cs
+C:\Users\User\Desktop\Seminar 8 C#\DomTask4_\obj\Debug\net7.0\DomTask4_.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Seminar 8 C#\DomTask4_\obj\Debug\net7.0\DomTask4_.dll
+C:\Users\User\Desktop\Seminar 8 C#\DomTask4_\obj\Debug\net7.0\refint\DomTask4_.dll
+C:\Users\User\Desktop\Seminar 8 C#\DomTask4_\obj\Debug\net7.0\DomTask4_.pdb
+C:\Users\User\Desktop\Seminar 8 C#\DomTask4_\obj\Debug\net7.0\DomTask4_.genruntimeconfig.cache
+C:\Users\User\Desktop\Seminar 8 C#\DomTask4_\obj\Debug\net7.0\ref\DomTask4_.dll
